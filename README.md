@@ -131,11 +131,15 @@
 </p>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?v=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?v=1">
-</picture>
+<h2 align="center">👾 Pacman Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph-dark.svg?v=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?v=10">
+    <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?v=10" />
+  </picture>
+</p>
 
 ###
 
