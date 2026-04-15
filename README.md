@@ -116,11 +116,19 @@
 
 ###
 
-<div align="center">
+<h2 align="center">🎧 Now Playing</h2>
+
+<p align="center">
   <a href="https://open.spotify.com/user/jkrishnaraj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jkrishnaraj&count=1" />
+    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/jkrishnaraj">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jkrishnaraj&count=1&unique=true" alt="Spotify recently played" />
+  </a>
+</p>
 
 ###
 <picture>
