@@ -114,19 +114,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jaddu0329.jaddu0329" />
 </div>
 
-###
-
-<h2 align="center">🎧 Now Playing</h2>
+<h2 align="center">🎧 Spotify Activity</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/jkrishnaraj">
-    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/jkrishnaraj">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jkrishnaraj&count=1&unique=true" alt="Spotify recently played" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
