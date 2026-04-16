@@ -108,21 +108,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaddu0329&theme=transparent&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=22C55E&background=0D1117" />
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaddu0329&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaddu0329&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaddu0329&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaddu0329&theme=github-dark&hide_border=true&line=00FFAA" />
-</p>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
