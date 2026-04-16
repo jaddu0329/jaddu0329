@@ -94,23 +94,31 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
+<div align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
   </a>
+  <img width="12" />
+
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" />
   </a>
+  <img width="12" />
+
   <a href="https://wa.me/YOUR_NUMBER" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" />
   </a>
+  <img width="12" />
+
   <a href="mailto:jkrishnaraj4@gmail.com" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" />
   </a>
+  <img width="12" />
+
   <a href="https://www.snapchat.com/add/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="40" style="vertical-align:middle; filter:invert(1);" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="40" style="filter: invert(1);" />
   </a>
-</p>
+</div>
 
 <h2 align="center">🔥 Streak & Contributions</h2>
 
