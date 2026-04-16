@@ -107,6 +107,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaddu0329&theme=transparent&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=22C55E&background=0D1117" />
 </p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaddu0329&theme=react-dark&color=22C55E&line=22C55E&point=22C55E" />
+</p>
 
 <h2 align="center">🐍 Contribution Flow</h2>
 <p align="center">
