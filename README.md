@@ -109,7 +109,6 @@
 </p>
 
 <h2 align="center">🐍 Contribution Flow</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/snake.svg?cache=1" />
 </p>
@@ -123,13 +122,11 @@
 </p>
 
 ###
-<h2 align="center">👾 Pacman Contribution Graph</h2>
-
+<h2 align="center">👾 Pacman Contribution</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph-dark.svg?v=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?v=10">
-    <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?v=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph-dark.svg?cache=1">
+    <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/pacman-contribution-graph.svg?cache=1" />
   </picture>
 </p>
 
