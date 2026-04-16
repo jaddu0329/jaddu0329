@@ -107,6 +107,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaddu0329&theme=transparent&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=22C55E&background=0D1117" />
 </p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaddu0329&theme=discord&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
