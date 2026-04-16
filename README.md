@@ -98,11 +98,11 @@
   </a>
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
