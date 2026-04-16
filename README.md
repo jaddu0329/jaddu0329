@@ -94,22 +94,28 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-<p align="center">
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  
+
   <a href="https://wa.me/YOUR_NUMBER" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" style="filter: invert(1);" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
-  
+
+  <a href="mailto:jkrishnaraj4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
   <a href="https://www.snapchat.com/add/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="40" style="filter: invert(1);" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" width="40" height="40" style="filter: invert(1);" alt="snapchat logo" />
   </a>
-</p>
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
+
 
 <h2 align="center">🔥 Streak & Contributions</h2>
 
