@@ -112,12 +112,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaddu0329&theme=react-dark&color=22C55E&line=22C55E&point=22C55E" />
 </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaddu0329&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
 
 <h2 align="center">🐍 Contribution Flow</h2>
 <p align="center">
