@@ -100,7 +100,7 @@
   </a>
   <img width="12" />
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" style="text-decoration:none;">
+  <a href="https://instagram.com/krishnarajsinh_jadeja_21/?__pwa=1" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" />
   </a>
   <img width="12" />
