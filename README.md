@@ -105,7 +105,7 @@
   </a>
   <img width="12" />
 
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank" style="text-decoration:none;">
+  <a href="https://wa.me/919876543210" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" />
   </a>
   <img width="12" />
