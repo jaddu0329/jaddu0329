@@ -164,8 +164,7 @@
 
 
 <div align="center">
-  <a href="https://bubbleaniamtion.vercel.app/" target="_blank">
-    
+  <a href="https://bubbleaniamtion.vercel.app/" 
   
 
 
