@@ -165,7 +165,7 @@
 
 <div align="center">
   <a href="https://bubbleaniamtion.vercel.app/" target="_blank">
-    <img src="./demo.gif" alt="Bubble Animation Preview" />
+    <img src="./demo.gif" alt="Bubble Animation Preview
   
 
 
