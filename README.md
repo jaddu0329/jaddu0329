@@ -162,8 +162,6 @@
   </picture>
 </p>
 
-###
-## 🚀 Bubble 
 
 <div align="center">
   <a href="https://bubbleaniamtion.vercel.app/" target="_blank">
