@@ -163,7 +163,7 @@
 </p>
 
 ###
-## 🚀 Bubble Animation
+## 🚀 Bubble 
 
 <div align="center">
   <a href="https://bubbleaniamtion.vercel.app/" target="_blank">
