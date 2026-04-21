@@ -22,7 +22,10 @@
 </p>
 
 
-<h2 align="left">About me</h2>
+<h2 align="left">
+  <img src="./assets/aboutme.png" width="40" /> 
+  About me
+</h2>
 
 ###
 
