@@ -5,9 +5,13 @@
 ###
 
 <h2>
-  Hey What's up?
-  <br>
-  <img src="./assets/handshake.gif" width="60" style="margin-top: 6px;" />
+  Hey 
+  <img 
+    src="./assets/handshake.gif" 
+    width="60" 
+    style="vertical-align: middle; margin: 0 5px;"
+  />
+  What's up?
 </h2>
 </h2>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💻+React+%7C+Node.js+%7C+PostgreSQL;⚡+Building+Scalable+Web+Apps;🔗+RESTful+API+Development;🔥+High+Performance+Systems;🧠+Clean+Code+%26+Reusable+Components;📡+Real-Time+Data+Handling;🎨+UI%2FUX+Focused+Frontend" />
