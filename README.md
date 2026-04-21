@@ -38,7 +38,10 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW12Z3Y3eHN3eDB0NzJuN2dhZ3phdWxxNXduMXo2ODVpMGtncTlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" />
+  I code with
+</h2>
 
 ##
 <p align="center">
