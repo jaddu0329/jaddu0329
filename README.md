@@ -26,9 +26,7 @@
   About me
 </h2>
 
-| | |
-|--|--|
-| ```yaml
+```yaml
 name: Jadeja Krishnarajsinh
 location: India
 
@@ -45,7 +43,7 @@ currently_learning:
   - Cloud
 
 fun_fact: "I debug more than I code 😄"
-``` | <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="260"/> |
+```
 
 <h2 align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW12Z3Y3eHN3eDB0NzJuN2dhZ3phdWxxNXduMXo2ODVpMGtncTlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" />&nbsp;&nbsp;
