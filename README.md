@@ -8,8 +8,8 @@
   Hey 
   <img 
     src="./assets/handshake.gif" 
-    width="60" 
-    style="vertical-align: middle; margin: 0 5px;"
+    width="80" 
+    style="vertical-align: middle; margin: 0 6px;"
   />
   What's up?
 </h2>
