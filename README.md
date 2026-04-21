@@ -33,7 +33,7 @@
 
 <h2 align="left">I code with</h2>
 
-###
+##
 <p align="center">
   <img src="./assets/tech.gif" width="700" />
 </p>
