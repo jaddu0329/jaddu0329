@@ -20,37 +20,40 @@
     width="100%" 
   />
 </p>
-
 <h2 align="left">
   <img src="./assets/aboutme.png" width="40" />&nbsp;&nbsp;
-  About me
+  About Me
 </h2>
 
 <table>
 <tr>
 <td>
 
-name: Jadeja Krishnarajsinh  
-location: India  
+```yaml
+name: Jadeja Krishnarajsinh
+location: India
 
-current_role: Full Stack Developer  
+current_role: Full Stack Developer
 
-education: B.Tech IT  
+education: B.Tech IT
 
-currently_working_on:  
-- React + Node.js  
-- PostgreSQL  
+currently_working_on:
+  - React + Node.js
+  - PostgreSQL
+  - Backend optimization
 
-currently_learning:  
-- System Design  
-- Cloud  
+currently_learning:
+  - System Design
+  - Cloud
+  - Scalable architecture
 
 fun_fact: "I debug more than I code 😄"
+```
 
 </td>
 
 <td>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="200"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300"/>
 </td>
 
 </tr>
