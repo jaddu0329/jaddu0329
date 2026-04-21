@@ -20,9 +20,7 @@
     width="100%" 
   />
 </p>
-###
 
-<p align="left">My name is Jadeja Krishnarajsinh and I'm a Full Stack Developer, from India.</p>
 
 ###
 
