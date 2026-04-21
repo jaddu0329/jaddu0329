@@ -21,22 +21,29 @@
   />
 </p>
 
-
 <h2 align="left">
-  <img src="./assets/aboutme.png" width="40" /> 
+  <img src="./assets/aboutme.png" width="40" />&nbsp;&nbsp;
   About me
 </h2>
 
-###
+```yaml
+name: Jadeja Krishnarajsinh
+location: India
 
-<p align="left">
-✨ Creating bugs since 2022<br>
-📚 I'm currently learning advanced backend architecture, system design, and cloud deployment<br>
-🎯 Goals: Build scalable production-grade applications and work on impactful real-world projects<br>
-🎲 Fun fact: I enjoy solving real-world problems and turning ideas into live applications
-</p>
+current_role: Full Stack Developer
 
-###
+education: B.Tech IT
+
+currently_working_on:
+  - React + Node.js
+  - PostgreSQL
+
+currently_learning:
+  - System Design
+  - Cloud
+
+fun_fact: "I debug more than I code 😄"
+```
 
 <h2 align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW12Z3Y3eHN3eDB0NzJuN2dhZ3phdWxxNXduMXo2ODVpMGtncTlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" />&nbsp;&nbsp;
