@@ -25,9 +25,9 @@
   About Me
 </h2>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="60%" valign="top">
 
 ```yaml
 name: Jadeja Krishnarajsinh
@@ -52,10 +52,9 @@ fun_fact: "I debug more than I code 😄"
 
 </td>
 
-<td>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300"/>
+<td width="40%" align="center" valign="top">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%"/>
 </td>
-
 </tr>
 </table>
 
