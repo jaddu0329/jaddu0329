@@ -26,29 +26,35 @@
   About me
 </h2>
 
-```yaml
-name: Jadeja Krishnarajsinh
-location: India
+<table>
+<tr>
+<td>
 
-current_role: Full Stack Developer
+name: Jadeja Krishnarajsinh  
+location: India  
 
-education: B.Tech IT
+current_role: Full Stack Developer  
 
-currently_working_on:
-  - React + Node.js
-  - PostgreSQL
+education: B.Tech IT  
 
-currently_learning:
-  - System Design
-  - Cloud
+currently_working_on:  
+- React + Node.js  
+- PostgreSQL  
+
+currently_learning:  
+- System Design  
+- Cloud  
 
 fun_fact: "I debug more than I code 😄"
-```
 
-<p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="260"/>
-</p>
+</td>
 
+<td>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="200"/>
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   <img src="./assets/tech.gif" width="700" />
