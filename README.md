@@ -157,7 +157,10 @@ fun_fact: "I debug more than I code 😄"
   </a>
 </div>
 
-<h2 align="center">🔥 Streak & Contributions</h2>
+<h2 align="center">
+  🔥 Streak & Contributions
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl3a2tlNjJqbmt4Z3BnMHk5ZXd4OG9mcW80bjQ2dXR5dTd5YWF1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LM7mVNy0iAZpTBAkIH/giphy.gif" width="40" />
+</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaddu0329&theme=transparent&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=22C55E&background=0D1117" />
