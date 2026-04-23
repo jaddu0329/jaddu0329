@@ -186,7 +186,7 @@ fun_fact: "I debug more than I code 😄"
 </p>
 
 <h2 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" width="32" style="vertical-align: middle;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" width="50" style="vertical-align: middle;" />
   Spotify
 </h2>
 
