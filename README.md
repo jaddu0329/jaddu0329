@@ -177,7 +177,10 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaddu0329&theme=react-dark&color=22C55E&line=22C55E&point=22C55E" />
 </p>
 
-<h2 align="center">🐍 Contribution Flow</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FweHE3bjl1MGdnZTkyZ3BiaDF1aG5pajFzOTA3eHNpOHg4a2g4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/emyVVcjApSh5Dwan4d/giphy.gif" width="35" style="vertical-align: middle;" />
+  Contribution Flow
+</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/snake.svg?cache=1" />
 </p>
