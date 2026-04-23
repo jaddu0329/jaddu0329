@@ -128,9 +128,8 @@ fun_fact: "I debug more than I code 😄"
 </div>
 
 
-
 <h2 align="center">
-  <img src="./link.gif" width="40" style="vertical-align: middle;" />
+  <img src="./assets/link.gif" width="40" style="vertical-align: middle;" />
   Connect with Me
 </h2>
 
