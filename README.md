@@ -192,8 +192,6 @@ fun_fact: "I debug more than I code 😄"
 <table border="1" cellpadding="16">
   <tr>
     <td align="center">
-
-      <!-- Header (GIF + Spotify in one line) -->
       <table>
         <tr>
           <td>
@@ -207,15 +205,11 @@ fun_fact: "I debug more than I code 😄"
           </td>
         </tr>
       </table>
-
       <hr/>
-
-      <!-- Spotify Card -->
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark"/>
       </a>
-
-    </td>
+ </td>
   </tr>
 </table>
 
