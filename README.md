@@ -187,31 +187,21 @@ fun_fact: "I debug more than I code 😄"
 
 <div align="center">
 
-<table cellpadding="12">
+<table>
   <tr>
     <td align="center">
 
-      <!-- Header (icon + text in one line) -->
-      <table>
-        <tr>
-          <td>
-            <img 
-              src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" 
-              width="35"
-            />
-          </td>
-          <td>
-            <b style="font-size:18px;">SPOTIFY</b>
-          </td>
-        </tr>
-      </table>
+<h2>
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" 
+    width="35"
+  />
+  Spotify
+</h2>
 
-      <br/>
-
-      <!-- Spotify Card -->
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark"/>
-      </a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark"/>
+</a>
 
     </td>
   </tr>
@@ -241,6 +231,3 @@ fun_fact: "I debug more than I code 😄"
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=%F0%9F%9A%80%20Building%20scalable%20solutions%20%F0%9F%92%BB%20%7C%20Growing%20every%20day%20%F0%9F%93%88&fontSize=18&fontColor=FFFFFF&fontAlign=69&fontAlignY=66&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
-
-
-
