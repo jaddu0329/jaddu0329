@@ -213,4 +213,4 @@ fun_fact: "I debug more than I code 😄"
 </div>
 
 
-![3D Contribution](./profile-3d-contrib/profile-green-animate.svg)
+
