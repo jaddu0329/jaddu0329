@@ -210,7 +210,7 @@ fun_fact: "I debug more than I code 😄"
 
 ## 📊 3D Contribution Graph
 
-![3D Contribution](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution](./profile-3d-contrib/profile-night-view.svg)
 
 
 <div>
