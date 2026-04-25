@@ -187,21 +187,13 @@ fun_fact: "I debug more than I code 😄"
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" 
-        width="35"
-      />
-    </td>
-    <td>
-      <b style="font-size:18px;">SPOTIFY</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<h2>
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" 
+    width="35"
+  />
+  Spotify
+</h2>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark"/>
