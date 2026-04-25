@@ -190,9 +190,8 @@ fun_fact: "I debug more than I code 😄"
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" 
     width="40"
   />
-  <b>Spotify</b>
+  <sup><strong><font size="5">Spotify</font></strong></sup>
 </p>
-
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
