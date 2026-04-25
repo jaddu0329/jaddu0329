@@ -215,7 +215,7 @@ fun_fact: "I debug more than I code 😄"
 
 ## 🎮 Game Workflow
 
-## 🎮 Game Work
+## 🎮 Game Wo
 
 
 <div>
