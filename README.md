@@ -185,14 +185,14 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/snake.svg?cache=1" />
 </p>
 
-<h2 align="center">
+<div align="left">
   <img 
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhMWdndWJ5cjh0dHExMGN0aWhvMWVnMnoxbmJ3aTAyZHY0Yng1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AX8kTSf2ZOdEiXpyfX/giphy.gif" 
-    width="45" 
-    style="vertical-align: -6px; margin-right: 8px;" 
+    width="35"
+    style="vertical-align: middle; margin-right: 6px;"
   />
-  Spotify
-</h2>
+  <b>Spotify</b>
+</div>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark">
