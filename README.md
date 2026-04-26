@@ -229,7 +229,7 @@ fun_fact: "I debug more than I code 😄"
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
-## 🎮 Space Shooter Game
+# 🎮 Space Shooter Game
 
 <p align="center">
   <img src="./game.gif" />
