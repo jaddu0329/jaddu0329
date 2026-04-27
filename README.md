@@ -1,7 +1,4 @@
 
-<td width="60%" valign="top">
-
-```yaml
 name: Jadeja Krishnarajsinh
   - React + Node.js
   - PostgreSQL
