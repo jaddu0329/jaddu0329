@@ -3,10 +3,6 @@
 
 ```yaml
 name: Jadeja Krishnarajsinh
-
-education: B.Tech IT
-
-currently_working_on:
   - React + Node.js
   - PostgreSQL
   - Backend optimization
