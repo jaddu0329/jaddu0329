@@ -3,7 +3,7 @@ name: Jadeja Krishnarajsinh
   - React + Node.js
   
   - System 
-<td width="40%" align="center" valign="top">
+<td width="
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RoaHZpaHE0Zzg1b2V2bWVjYWQ2aHU0eDFrZjhkcm9kcDQyazBldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" 
 </table>
 
