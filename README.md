@@ -3,8 +3,7 @@ name: Jadeja Krishnarajsinh
   - React + Node.js
   
   - System 
-<td width="
-<img src="https://media2.giphy.com/media
+<td width
 
 <h2 align="lefteDB0NzJuN2dhZ3phdWxxNXduMXo2ODVpMGtncTlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" />&nbsp;&nbsp;
   I code with
