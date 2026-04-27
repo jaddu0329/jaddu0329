@@ -154,7 +154,7 @@ fun_fact: "I debug more than I code 😄"
   </a>
   <img width="12" />
 
-  <a href="https://www.snapchat.com/add/YOUR_USERNAME" target="_blank" style="text-decoration:none;">
+  <a href="https://www.snapchat.com/add/J_krishnaraj21" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" height="40" style="filter: invert(1);" />
   </a>
 </div>
