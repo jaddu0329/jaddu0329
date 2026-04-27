@@ -6,8 +6,7 @@
   
 </h2>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=lines=🚀+Full+Stack+Developer;💻+React+%7C+Node.js+%7C+PostgreSQL;⚡+Building+Scalable+Web+Apps;🔗+RESTful+API+Development;🔥+High+Performance+Systems;🧠+Clean+Code+%26+Reusable+Components;📡+Real-Time+Data+Handling;🎨+UI
-<img src="https://komarev.com/ghpvc/?username0Views&color=0e75b6&style=for-the-badge" />
-<p align="center">
+<img src="https://komarev.com/
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
     width="100%" 
