@@ -7,10 +7,6 @@ name: Jadeja Krishnarajsinh
 currently_learning:
   - System Design
   - Cloud
-  - Scalable architecture
-
-fun_fact: "I debug more than I code 😄"
-```
 
 </td>
 
