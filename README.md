@@ -4,8 +4,7 @@
     src="./assets/handshake.gif" 
     width="110"
   />
-  What's up?
-</h2>
+  
 </h2>
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💻+React+%7C+Node.js+%7C+PostgreSQL;⚡+Building+Scalable+Web+Apps;🔗+RESTful+API+Development;🔥+High+Performance+Systems;🧠+Clean+Code+%26+Reusable+Components;📡+Real-Time+Data+Handling;🎨+UI
 <img src="https://komarev.com/ghpvc/?username0Views&color=0e75b6&style=for-the-badge" />
