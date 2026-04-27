@@ -3,9 +3,6 @@
 
 ```yaml
 name: Jadeja Krishnarajsinh
-location: India
-
-current_role: Full Stack Developer
 
 education: B.Tech IT
 
