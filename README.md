@@ -120,7 +120,6 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://github-readme-stats.vercel.app/api?username=jaddu0329&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaddu0329&layout=compact&theme=dracula" height="150" />
 </div>
-
 <h2 align="center">
   <img src="./assets/link.png" width="40" style="vertical-align: middle;" />
   Connect with Me
