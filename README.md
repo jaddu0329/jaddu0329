@@ -227,7 +227,6 @@ fun_fact: "I debug more than I code 😄"
 </p>
 
 # 🎮 Space Shooter Game
-
 <p align="center">
   <img src="./game.gif" />
 </p>
