@@ -221,7 +221,7 @@ fun_fact: "I debug more than I code 😄"
 </p>
 
 <h1 align="center">
-  🎮 
+  
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z5ejZ0ZW1rNWFrM2Y4Z3F0djB1eWp6OHg4amMweW9wejJweThsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLqJpermQfdTMG2XXc/giphy.gif" width="60" style="vertical-align: middle;" />
   Space Shooter Game
 </h1>
