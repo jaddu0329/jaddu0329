@@ -60,7 +60,6 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW12Z3Y3eHN3eDB0NzJuN2dhZ3phdWxxNXduMXo2ODVpMGtncTlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" />&nbsp;&nbsp;
   I code with
 </h2>
-
 <p align="center">
   <img src="./assets/tech.gif" width="700" />
 </p>
