@@ -220,11 +220,12 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z5ejZ0ZW1rNWFrM2Y4Z3F0djB1eWp6OHg4amMweW9wejJweThsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLqJpermQfdTMG2XXc/giphy.gif" width="300"/>
 </p>
 
-<h1 align="center">
-  
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z5ejZ0ZW1rNWFrM2Y4Z3F0djB1eWp6OHg4amMweW9wejJweThsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLqJpermQfdTMG2XXc/giphy.gif" width="60" style="vertical-align: middle;" />
-  Space Shooter Game
-</h1>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=%F0%9F%9A%80%20Building%20scalable%20solutions%20%F0%9F%92%BB%20%7C%20Growing%20every%20day%20%F0%9F%93%88&fontSize=18&fontColor=FFFFFF&fontAlign=69&fontAlignY=66&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<div align="center" style="height: 80px; overflow: hidden;">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z5ejZ0ZW1rNWFrM2Y4Z3F0djB1eWp6OHg4amMweW9wejJweThsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLqJpermQfdTMG2XXc/giphy.gif" 
+    width="120" 
+    style="margin-top: -60px;"
+  />
 </div>
+
+<h1 align="center">🎮 Space Shooter Game</h1>
