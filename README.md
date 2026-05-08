@@ -181,7 +181,6 @@ fun_fact: "I debug more than I code 😄"
 </p>
 
 
-
 <div align="center">
 
 <table border="1" cellpadding="16">
