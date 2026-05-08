@@ -118,7 +118,6 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaddu0329&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaddu0329&layout=compact&theme=dracula" height="150" />
