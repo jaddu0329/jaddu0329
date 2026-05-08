@@ -213,7 +213,6 @@ fun_fact: "I debug more than I code 😄"
 
 </div>
 
-
 <h2 align="center">👾 Pacman Contribution</h2>
 <p align="center">
   <picture>
