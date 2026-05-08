@@ -23,7 +23,6 @@
   <img src="./assets/aboutme.png" width="40" />&nbsp;&nbsp;
   About Me
 </h2>
-
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
