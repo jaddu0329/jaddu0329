@@ -180,7 +180,6 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://raw.githubusercontent.com/jaddu0329/jaddu0329/output/snake.svg?cache=1" />
 </p>
 
-
 <div align="center">
 
 <table border="1" cellpadding="16">
