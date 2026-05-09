@@ -222,8 +222,9 @@ fun_fact: "I debug more than I code 😄"
 
 <h1 align="center">Space Shooter Game</h1>
 <p align="center">
-  <img src="./game.gif" />
+  <img src="./game.gif" alt="Game Preview" width="120" />
 </p>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=%F0%9F%9A%80%20Building%20scalable%20solutions%20%F0%9F%92%BB%20%7C%20Growing%20every%20day%20%F0%9F%93%88&fontSize=18&fontColor=FFFFFF&fontAlign=69&fontAlignY=66&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
