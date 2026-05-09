@@ -220,7 +220,7 @@ fun_fact: "I debug more than I code 😄"
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z5ejZ0ZW1rNWFrM2Y4Z3F0djB1eWp6OHg4amMweW9wejJweThsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLqJpermQfdTMG2XXc/giphy.gif" width="300"/>
 </p>
 
-<h1 align="center"<h1 align="center">Space Shooter Game</h1>
+<h1 align="cen<h1 align="center">Space Shooter Game</h1>
 <p align="center">
   <img src="./game.gif" />
 </p>
