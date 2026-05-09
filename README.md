@@ -221,6 +221,7 @@ fun_fact: "I debug more than I code 😄"
 </p>
 
 <h1 align="center">Space Shooter Game</h1>
+
 <p align="center">
   <img src="./game.gif" alt="Game Preview" width="120" />
 </p>
