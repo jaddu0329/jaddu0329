@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<>
+<
 <h2> 
    Hey 
   <img 
