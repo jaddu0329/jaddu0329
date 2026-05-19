@@ -2,6 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&text=JADEJA%20KRISHNARAJSINH&fontSize=54&fontColor=FFFFFF&fontAlign=59&fontAlignY=33&stroke=-&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20%E2%9A%9B%EF%B8%8F%20React%20%7C%20%F0%9F%9F%A2%20Node.js%20%7C%20%F0%9F%90%98%20PostgreSQL&descSize=15&descAlign=72&descAlignY=54&color=random"  />
 </div>
 <>
+  <>
 <h2> 
    Hey 
   <img 
