@@ -153,19 +153,18 @@ fun_fact: "I debug more than I code 😄"
   </a>
 </div>
 
+
+
 <h2 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl3a2tlNjJqbmt4Z3BnMHk5ZXd4OG9mcW80bjQ2dXR5dTd5YWF1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LM7mVNy0iAZpTBAkIH/giphy.gif" width="35" />
-  Streak & Contributions
+  🌱 GitHub Streak
 </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaddu0329&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=jaddu0329&theme=github-dark&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=39D353&dates=8B949E"
+    alt="GitHub Streak"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaddu0329&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaddu0329&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaddu0329&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
