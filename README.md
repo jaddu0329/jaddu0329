@@ -160,17 +160,6 @@ fun_fact: "I debug more than I code 😄"
 </h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jaddu0329&theme=github-dark&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=39D353&dates=8B949E"
-    alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaddu0329&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaddu0329&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jaddu0329&theme=transparent&hide_border=true&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=22C55E&dates=22C55E&background=0D1117" />
 </p>
 
