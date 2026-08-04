@@ -128,7 +128,7 @@ fun_fact: "I debug more than I code 😄"
 </h2>
 
 <div align="left">
-  <a href="https://linkedin.com/in/j-n-7651a6388/)" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/jadeja-krishnarajsinh-7651a6388/)" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" />
   </a>
   <img width="12" />
