@@ -215,7 +215,7 @@ fun_fact: "I debug more than I code 😄"
   </picture>
 </p>
 
-## 📊 3D Contribution Graph
+## 📊 3D Contribution 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
