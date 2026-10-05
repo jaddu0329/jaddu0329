@@ -189,17 +189,7 @@ fun_fact: "I debug more than I code 😄"
               width="35"
             />
           </td>
-          <td>
-            <b style="font-size:18px;">SPOTIFY</b>
-          </td>
-        </tr>
-      </table>
-      <hr/>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kv5cgsurbdwt05dge9dlo4ih1&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark"/>
-      </a>
- </td>
-  </tr>
+         </tr>
 </table>
 
 </div>
